@@ -1,45 +1,44 @@
-# Olá! Eu sou o Fábio Andrade 👋
+# Olá, eu sou o Fábio Andrade! 👋
 
-- 💼 Gestor Financeiro  
-- 🎓 Graduado em **Gestão Financeira (FGV)** e com extensão em **Inteligência Artificial Aplicada aos Negócios (FGV)**  
-- 🔄 **Transição de carreira** para tecnologia  
-- 🧪 Interesse especial: **IA aplicada a negócios**, **cloud** e **FinOps**  
-- 🌎 Idioma: **Português**
+### Gestor Financeiro & Operacional | Especialista em Eficiência | Transição Estruturada para Cloud, Dados e IA
+
+Com mais de duas décadas de experiência em liderança de negócios, estou unindo minha visão analítica de gestão com tecnologias de ponta. Meu foco é a **Eficiência Operacional**: utilizar Cloud, Dados e IA para transformar processos e otimizar resultados de negócio.
 
 ---
 
-## Sobre mim
-Atuo na área financeira em um consultório veterinário e estou em transição para a área de tecnologia.  
-Participando do **ONE – Oracle Next Education**, programa de educação e empregabilidade (Alura + Oracle) focado em formação de talentos em tecnologia.
+### 🚀 Tech Stack & Jornada de Especialização
 
-> O ONE é 100% online e gratuito, com objetivo social de capacitar pessoas em tecnologia e conectá-las ao mercado.  
-> Saiba mais: https://www.oracle.com/br/education/oracle-next-education/
+**Em Andamento:**
+- 🎓 **MBA em IA e Data Analytics** – SENAC RJ
+- 👨‍💻 **Oracle Next Education (ONE)** – Data Science (Alura Latam)
+- ☁️ **AWS Re/Start + IA** – Escola da Nuvem
 
----
-
-## O que estou estudando
-- **HTML**
-- **CSS**
-- **JavaScript**
+**Cursos Concluídos:**
+- 🤖 **Generative AI for Productivity** – Cornell University
+- 📈 **IA Aplicada aos Negócios** – FGV
 
 ---
 
-## Projetos
-- **Jogo do Número Secreto** → meu primeiro repositório, feito em HTML/CSS/JS.  
-  Repositório: https://github.com/thedrads/numero-secreto
+### 💼 O que trago da Gestão para a Tecnologia (Diferenciais):
+- **Visão Estratégica:** Histórico real de redução de ~40% de OPEX e aumento de ~35% na receita através de KPIs.
+- **Operations:** Estruturação de processos complexos e cultura de alta performance.
 
 ---
 
-## Interesses
-- IA aplicada a negócios
-- **Cloud**  
-- **FinOps**  
-- Boas práticas de versionamento com **Git/GitHub**
+### 🎓 Certificações em Destaque
+- 🏅 **OCI 2025 Certified Foundations Associate** (Oracle Cloud)
+- 🏅 **OCI 2025 Certified AI Foundations Associate** (Oracle Cloud)
 
 ---
 
-## Onde me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/fabioandradegf/
+### 📊 Estatísticas de Aprendizado
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedrads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedrads&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioandradegf/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thedrads@gmx.net)
